@@ -14,9 +14,7 @@
 
 - <https://www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289>
 
--
-
--
+- <http://www.universidadejava.com.br/materiais/java-operadores-logicos/#:~:text=Operador%20de%20nega%C3%A7%C3%A3o&text=%C3%A9%20chamado%20de%20nega%C3%A7%C3%A3o.,o%20operando%20o%20valor%20true.>
 
 ## Dia 4
 
