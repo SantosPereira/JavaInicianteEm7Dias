@@ -18,4 +18,8 @@
 
 ## Dia 4
 
+- <https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java/#:~:text=As%20estruturas%20condicionais%20possibilitam%20ao,como%20os%20valores%20de%20vari%C3%A1veis.>
+
+## Dia 5
+
 Adicionar material sobre tipos de dados por referência ao dia 2.
