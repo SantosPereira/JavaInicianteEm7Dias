@@ -1,5 +1,5 @@
 public class Estruturas_De_Repeticao {
-    public static void main(String[] args[]) {
+    public static void main(String args[]) {
         
         int variavel_contador = 0;
         char[] frase = {'E','u',' ','s','e','i',' ','u','s','a','r',' ','a','r','r','a','y','s'};
@@ -15,7 +15,7 @@ public class Estruturas_De_Repeticao {
         }
 
         variavel_contador = 0;
-        while (variavel_contador < 150) {
+        while (variavel_contador < 18) {
             System.out.println(frase[variavel_contador]);
             variavel_contador++;
         }
@@ -23,6 +23,6 @@ public class Estruturas_De_Repeticao {
         do{
             System.out.println("Do-while");
             variavel_contador--;
-        }while (variavel_contador > 20);
+        }while (variavel_contador > -20);
     }
 }
