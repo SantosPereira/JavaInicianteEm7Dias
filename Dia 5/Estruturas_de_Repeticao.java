@@ -24,5 +24,25 @@ public class Estruturas_De_Repeticao {
             System.out.println("Do-while");
             variavel_contador--;
         }while (variavel_contador > -20);
+        
+        
+
+
+        // Controle de fluxo (break e continue)
+        variavel_contador = 0;
+        while (variavel_contador < 500) {
+            variavel_contador++;
+            System.out.println("i");
+            if (variavel_contador > 10)
+                break;
+        }
+
+        while (variavel_contador > 1) {
+            variavel_contador--;
+            if (variavel_contador == 7 || variavel_contador == 2)
+                continue;
+            System.out.println(variavel_contador); 
+        }
+
     }
 }
