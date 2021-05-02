@@ -22,4 +22,7 @@
 
 ## Dia 5
 
+- <>
+
+## Dia 6
 Adicionar material sobre tipos de dados por referência ao dia 2.
