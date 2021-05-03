@@ -36,6 +36,14 @@
 
 ## Dia 6
 
-### Assunto: Vetores e Métodos
+### Assunto: Rotinas (Métodos e Procedimentos) parte 1
+
+- <https://www.youtube.com/watch?v=EuxmbXZCFVQ&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=29>
+
+- <https://www.devmedia.com.br/trabalhando-com-metodos-em-java/25917>
+
+## Dia 7
+
+### Assunto: Rotinas (Métodos e Procedimentos) parte 2
 
 Adicionar material sobre tipos de dados por referência ao dia 2.
