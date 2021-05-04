@@ -1,7 +1,10 @@
+// =========================== //
+// OBJETO DE ENGENHARIA REVERSA
+// =========================== //
 
 import java.util.Scanner;
 
-public class HomensMulheres {
+public class ER_CODE {
     public static void main(String[] args) {
         int sexo, qtMulheres=0, qtHomens=0;
         float altura, somaH=0, mediaHomens=0, maior=0, menor=0;
