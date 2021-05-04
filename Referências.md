@@ -49,7 +49,7 @@
 - <https://dev.to/guilhermemanzano/lista-de-exercicios-basicos-em-java-parte-1-5f0l>
 
 > Exercício 1: "Estou respirando a quantos dias?"
-> Exercício 2:
+> Exercício 2: ""
 > Exercício 3:
 > Exercício 4:
 > Exercício 5:
