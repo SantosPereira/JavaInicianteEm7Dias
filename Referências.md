@@ -44,6 +44,19 @@
 
 ## Dia 7
 
+### Assunto: Input e Exercícios
+
+- <https://dev.to/guilhermemanzano/lista-de-exercicios-basicos-em-java-parte-1-5f0l>
+
+> Exercício 1: "Estou respirando a quantos dias?"
+> Exercício 2:
+> Exercício 3:
+> Exercício 4:
+> Exercício 5:
+> Exercício 6:
+
+## Dia 8
+
 ### Assunto: Rotinas (Métodos e Procedimentos) parte 2
 
 Adicionar material sobre tipos de dados por referência ao dia 2.
