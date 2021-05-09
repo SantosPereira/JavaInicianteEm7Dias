@@ -14,9 +14,15 @@
 
 - <https://tableless.com.br/java-tipos-de-dados/>
 
+- <https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293>
+
+- <https://www.devmedia.com.br/trabalhando-com-arrays-em-java/25530>
+
+- <https://www.guj.com.br/t/como-importar-classe-java-que-esta-na-mesma-pasta/391212/4>
+
 ## Dia 3
 
-### Assunto: Operadores (Aritméricos, Lógicos e Relacionais)
+### Assunto: Operadores (Aritméricos, Lógicos, Relacionais e Ternários)
 
 - <https://www.devmedia.com.br/java-operadores-de-atribuicao-aritmeticos-relacionais-e-logicos/38289>
 
