@@ -1,4 +1,4 @@
-# Java em 12 dias
+# Java {Iniciante} em 12 dias
 
 ## Dia 1
 
@@ -55,8 +55,23 @@
 > Exercício 5:
 > Exercício 6:
 
-## Dia 8
+&nbsp;
+> Adicionar material sobre tipos de dados por referência ao dia 2.
 
-### Assunto: Rotinas (Métodos e Procedimentos) parte 2
+---
 
-Adicionar material sobre tipos de dados por referência ao dia 2.
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### O conteúdo continua no repositório
+
+[<h1>Java {Intermediário} em 30 dias</h1>](https://github.com/SantosPereira/JavaIntermediarioEm30Dias)
+
+- Assunto: Rotinas (Métodos e Procedimentos) parte 2
