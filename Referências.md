@@ -1,4 +1,4 @@
-# Java {Iniciante} em 12 dias
+# Java {Iniciante} Em 7 Dias
 
 ## Dia 1
 
