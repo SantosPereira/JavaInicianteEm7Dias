@@ -1,4 +1,4 @@
-public class Tipos_Primitivos {
+public class TiposPrimitivos {
     public static void main(String[] args) {
         byte Byte = 127;
         int Inteiro = 1;

@@ -1,7 +1,7 @@
-public class Estruturas_De_Repeticao {
+public class EstruturasDeRepeticao {
     public static void main(String args[]) {
         
-        int variavel_contador = 0;
+        int variavelContador = 0;
         char[] frase = {'E','u',' ','s','e','i',' ','u','s','a','r',' ','a','r','r','a','y','s'};
         int[] lista = {1,2,3,4,5,6,7,8,9,10};
         // String frase = "Eu sei usar Strings";
@@ -14,34 +14,34 @@ public class Estruturas_De_Repeticao {
             System.out.println("Texto");
         }
 
-        variavel_contador = 0;
-        while (variavel_contador < 18) {
-            System.out.println(frase[variavel_contador]);
-            variavel_contador++;
+        variavelContador = 0;
+        while (variavelContador < 18) {
+            System.out.println(frase[variavelContador]);
+            variavelContador++;
         }
         
         do{
             System.out.println("Do-while");
-            variavel_contador--;
-        }while (variavel_contador > -20);
+            variavelContador--;
+        }while (variavelContador > -20);
         
         
 
 
         // Controle de fluxo (break e continue)
-        variavel_contador = 0;
-        while (variavel_contador < 500) {
-            variavel_contador++;
+        variavelContador = 0;
+        while (variavelContador < 500) {
+            variavelContador++;
             System.out.println("i");
-            if (variavel_contador > 10)
+            if (variavelContador > 10)
                 break;
         }
 
-        while (variavel_contador > 1) {
-            variavel_contador--;
-            if (variavel_contador == 7 || variavel_contador == 2)
+        while (variavelContador > 1) {
+            variavelContador--;
+            if (variavelContador == 7 || variavelContador == 2)
                 continue;
-            System.out.println(variavel_contador); 
+            System.out.println(variavelContador); 
         }
 
     }

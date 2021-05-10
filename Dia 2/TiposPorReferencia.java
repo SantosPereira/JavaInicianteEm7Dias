@@ -1,4 +1,4 @@
-public class Tipos_Por_Referencia {
+public class TiposPorReferencia {
     public static void main(String args[]) {
 
         /*
